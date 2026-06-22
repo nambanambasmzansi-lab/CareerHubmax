@@ -1,7 +1,7 @@
 {
-  "name": "my-app",
+  "name": "careerhub-sa",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -76,5 +76,7 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4"
-  }
+  },
+  "description": "CareerHub SA web application built with React, TypeScript, and Vite.",
+  "license": "MIT"
 }
